@@ -1,12 +1,18 @@
-## Hi there 👋
+# Equipe de Dados - Lippaus Distribuição
+Juntos com o Varejo
 
-<!--
+## Alguns fatos
 
-**Here are some ideas to get you started:**
+> ### Propósito
 
-🙋‍♀️ A short introduction - what is your organization all about?
-🌈 Contribution guidelines - how can the community get involved?
-👩‍💻 Useful resources - where can the community find your docs? Is there anything else the community should know?
-🍿 Fun facts - what does your team eat for breakfast?
-🧙 Remember, you can do mighty things with the power of [Markdown](https://docs.github.com/github/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax)
--->
+Ajudamos o varejo de bebida a prosperar!
+
+> ### 🔭 - O que eu busco para o meu futuro?
+
+L I D E R A N Ç A
+I M P A C T O
+P R O T A G O N I S M O
+P A I X Ã O
+A G I L I D A D E
+U N I C I D A D E
+S I M P L I C I D A D E

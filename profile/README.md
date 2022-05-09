@@ -2,6 +2,4 @@
 
 ## Juntos com o Varejo
 
-> ### 🔭  Propósito
-
-Ajudamos o varejo de bebida a prosperar!
+> ### 🔭  Propósito: Ajudamos o varejo de bebida a prosperar!

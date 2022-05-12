@@ -10,12 +10,9 @@ Ajudamos o varejo de bebida a prosperar!
 
 **Jogar o jogo!**
 
-Manter-se uma empresa viva, ágil e criativa. Extrair o máximo de oportunidades do nosso ecossistema de negócios.
-
-Criar e consolodiar três novos serviços que fortaleçam nosso propósito, até dezembro de 2023.
+Manter-se uma empresa viva, ágil e criativa. Extrair o máximo de oportunidades do nosso ecossistema de negócios. Criar e consolidar três novos serviços que fortaleçam nosso propósito, até dezembro de 2023.
 
 > ### Nossos Valores
-
 
 **L** I D E R A N Ç A </br>
 **I** M P A C T O </br>
